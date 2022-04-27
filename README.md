@@ -1,1 +1,1 @@
-# pro-class-solar-energy
+# solar_power
